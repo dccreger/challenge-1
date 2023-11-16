@@ -196,7 +196,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
-.footer h2 {
+/* changed footer to h3 */
+.footer h3 {
   font-size: 20px;
 }
